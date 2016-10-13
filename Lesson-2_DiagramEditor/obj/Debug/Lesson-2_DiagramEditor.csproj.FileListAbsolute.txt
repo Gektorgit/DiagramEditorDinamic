@@ -1,0 +1,32 @@
+C:\Users\student\Documents\Visual Studio 2012\Projects\Lesson-2_DiagramEditor\Lesson-2_DiagramEditor\bin\Debug\Lesson-2_DiagramEditor.exe.config
+C:\Users\student\Documents\Visual Studio 2012\Projects\Lesson-2_DiagramEditor\Lesson-2_DiagramEditor\bin\Debug\Lesson-2_DiagramEditor.exe
+C:\Users\student\Documents\Visual Studio 2012\Projects\Lesson-2_DiagramEditor\Lesson-2_DiagramEditor\bin\Debug\Lesson-2_DiagramEditor.pdb
+C:\Users\student\Documents\Visual Studio 2012\Projects\Lesson-2_DiagramEditor\Lesson-2_DiagramEditor\obj\Debug\Lesson-2_DiagramEditor.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2012\Projects\Lesson-2_DiagramEditor\Lesson-2_DiagramEditor\obj\Debug\Lesson_2_DiagramEditor.Form1.resources
+C:\Users\student\Documents\Visual Studio 2012\Projects\Lesson-2_DiagramEditor\Lesson-2_DiagramEditor\obj\Debug\Lesson_2_DiagramEditor.Properties.Resources.resources
+C:\Users\student\Documents\Visual Studio 2012\Projects\Lesson-2_DiagramEditor\Lesson-2_DiagramEditor\obj\Debug\Lesson-2_DiagramEditor.csproj.GenerateResource.Cache
+C:\Users\student\Documents\Visual Studio 2012\Projects\Lesson-2_DiagramEditor\Lesson-2_DiagramEditor\obj\Debug\Lesson-2_DiagramEditor.exe
+C:\Users\student\Documents\Visual Studio 2012\Projects\Lesson-2_DiagramEditor\Lesson-2_DiagramEditor\obj\Debug\Lesson-2_DiagramEditor.pdb
+d:\Program Files\ШАГ\Шаг\GDI+\Lesson-2_DiagramEditor\Lesson-2_DiagramEditor\bin\Debug\Lesson-2_DiagramEditor.exe.config
+d:\Program Files\ШАГ\Шаг\GDI+\Lesson-2_DiagramEditor\Lesson-2_DiagramEditor\obj\Debug\Lesson-2_DiagramEditor.exe
+d:\Program Files\ШАГ\Шаг\GDI+\Lesson-2_DiagramEditor\Lesson-2_DiagramEditor\obj\Debug\Lesson-2_DiagramEditor.pdb
+d:\Program Files\ШАГ\Шаг\GDI+\Lesson-2_DiagramEditor\Lesson-2_DiagramEditor\bin\Debug\Lesson-2_DiagramEditor.exe
+d:\Program Files\ШАГ\Шаг\GDI+\Lesson-2_DiagramEditor\Lesson-2_DiagramEditor\bin\Debug\Lesson-2_DiagramEditor.pdb
+d:\Program Files\ШАГ\Шаг\GDI+\Lesson-2_DiagramEditor\Lesson-2_DiagramEditor\obj\Debug\Lesson_2_DiagramEditor.Properties.Resources.resources
+d:\Program Files\ШАГ\Шаг\GDI+\Lesson-2_DiagramEditor\Lesson-2_DiagramEditor\obj\Debug\Lesson-2_DiagramEditor.csproj.GenerateResource.Cache
+D:\Program Files\ШАГ\Шаг\GDI+\Lesson-2_DiagramEditor\Lesson-2_DiagramEditor\bin\Debug\en\Lesson-2_DiagramEditor.resources.dll
+D:\Program Files\ШАГ\Шаг\GDI+\Lesson-2_DiagramEditor\Lesson-2_DiagramEditor\obj\Debug\en\Lesson-2_DiagramEditor.resources.dll
+D:\Program Files\ШАГ\Шаг\GDI+\Lesson-2_DiagramEditor\Lesson-2_DiagramEditor\obj\Debug\Lesson_2_DiagramEditor.Form1.resources
+D:\Program Files\ШАГ\Шаг\GDI+\Lesson-2_DiagramEditor\Lesson-2_DiagramEditor\obj\Debug\Lesson_2_DiagramEditor.Form1.en.resources
+D:\Program Files\ШАГ\Шаг\GDI+\DiagramEditorDinamic\Lesson-2_DiagramEditor\bin\Debug\Lesson-2_DiagramEditor.exe.config
+D:\Program Files\ШАГ\Шаг\GDI+\DiagramEditorDinamic\Lesson-2_DiagramEditor\obj\Debug\Lesson-2_DiagramEditor.exe
+D:\Program Files\ШАГ\Шаг\GDI+\DiagramEditorDinamic\Lesson-2_DiagramEditor\obj\Debug\Lesson-2_DiagramEditor.pdb
+D:\Program Files\ШАГ\Шаг\GDI+\DiagramEditorDinamic\Lesson-2_DiagramEditor\bin\Debug\Lesson-2_DiagramEditor.exe
+D:\Program Files\ШАГ\Шаг\GDI+\DiagramEditorDinamic\Lesson-2_DiagramEditor\bin\Debug\Lesson-2_DiagramEditor.pdb
+D:\Program Files\ШАГ\Шаг\GDI+\DiagramEditorDinamic\Lesson-2_DiagramEditor\bin\Debug\en\Lesson-2_DiagramEditor.resources.dll
+D:\Program Files\ШАГ\Шаг\GDI+\DiagramEditorDinamic\Lesson-2_DiagramEditor\obj\Debug\Lesson-2_DiagramEditor.csprojResolveAssemblyReference.cache
+D:\Program Files\ШАГ\Шаг\GDI+\DiagramEditorDinamic\Lesson-2_DiagramEditor\obj\Debug\Lesson_2_DiagramEditor.Form1.resources
+D:\Program Files\ШАГ\Шаг\GDI+\DiagramEditorDinamic\Lesson-2_DiagramEditor\obj\Debug\Lesson_2_DiagramEditor.Properties.Resources.resources
+D:\Program Files\ШАГ\Шаг\GDI+\DiagramEditorDinamic\Lesson-2_DiagramEditor\obj\Debug\Lesson_2_DiagramEditor.Form1.en.resources
+D:\Program Files\ШАГ\Шаг\GDI+\DiagramEditorDinamic\Lesson-2_DiagramEditor\obj\Debug\Lesson-2_DiagramEditor.csproj.GenerateResource.Cache
+D:\Program Files\ШАГ\Шаг\GDI+\DiagramEditorDinamic\Lesson-2_DiagramEditor\obj\Debug\en\Lesson-2_DiagramEditor.resources.dll
